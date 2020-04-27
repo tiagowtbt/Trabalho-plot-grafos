@@ -1,4 +1,4 @@
-G = load('gorillaaa.txt')
+G = load('grafo.txt')
  
 V = [size(G,1),3];
 
